@@ -2,9 +2,5 @@
 
 practice one
 
-Just practice stuff
-
-
-
-
+Just practice Git
 
